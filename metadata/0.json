@@ -1,0 +1,31 @@
+{
+  "description": "the palladium chain project came as a stimulus and example for the creation of blockchain-based technologies and smart contracts. linked to precious metals and collectibles due to their authenticity and immutability.", 
+  "external_url": "https://palladiumchain.github.io/", 
+  "image": "https://cdn.jsdelivr.net/gh/palladiumchain/palladiumcoin@main/metadata/palladiumcoin.png", 
+  "name": "PalladiumCoin",
+"attributes": [
+    {
+      "trait_type": "Base", 
+      "value": "Coin"
+    }, 
+    {
+      "trait_type": "Ounce", 
+      "value": "1 Oz"
+    }, 
+    {
+      "trait_type": "Metal", 
+      "value": "Palladium"
+    }, 
+    {
+      "display_type": "date", 
+      "trait_type": "born", 
+      "value": 1635570210
+    },
+  {
+  "seller_fee_basis_points": 50
+  },
+  {
+  "fee_recipient": "0xE74884c01a9AF7B7fe83C602F34Eb23b6eE37d96"
+  }
+  ]
+}
